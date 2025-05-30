@@ -1,0 +1,2 @@
+type: shawl
+design: it resembles flora and fauna of various kind like elephant, bird and flower

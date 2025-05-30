@@ -1,0 +1,3 @@
+type: galey
+name: rine galey
+design: the design in the cloth resemble ornament (rine)

@@ -1,0 +1,4 @@
+name:  TESÜ PHI
+design: it is a shawl, it has cowrie shell beads in the border and in the middle
+description: The Tesü Phi is a traditional shawl worn by Rengma women. There are two distinct types of white cowrie shell-adorned shawls, both characterized by a black base fabric embellished with three rows of embroidered cowrie shells, symbolizing strength and victory.
+One design features a circular embroidery at the center, known as "KAHO", and is exclusively worn by the wives and daughters of noble families. The other design, featuring a star motif called "SHYENYÜ", is traditionally worn by women from common families.
